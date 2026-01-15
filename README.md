@@ -1,6 +1,6 @@
 ## Hi, I'm Jaime Rodrigo 👋
 
-#### About me
+### About me
 Systems Engineering student in professional training.  
 Software Developer in training with experience in Java, C# and Python.  
 Interested in backend development, AI and cybersecurity.
